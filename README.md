@@ -13,10 +13,10 @@
   <p align="center">
     Un projecto con React sobre Ecommercee
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Ver proyecto »</strong></a>
+    <a href="https://github.com/JuanManuelCalle/PixelPlayFinal"><strong>Ver proyecto »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Ver link publco</a>
+    <a href="https://juancoder-d8639.web.app/">Ver link publco</a>
   </p>
 </div>
 
